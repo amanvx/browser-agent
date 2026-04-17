@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*.local
+
+# Logs and runtime artifacts
+logs/
+*.log
+
+# Playwright/browser artifacts
+playwright-report/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
